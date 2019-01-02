@@ -42,8 +42,8 @@ Our WADA model consists of source extractor, target extractor, task classifier, 
 
 ### Non partial domain adaptation results
 - MNISTM<br>
-<img src="./images/non_patial/mnist_mnistm/TSNE_Domain_2D.png" width="600"/>
-<img src="./images/non_patial/mnist_mnistm/TSNE_Label_2D.png" width="600"/><br>
+<img src="./images/non_patial/mnist_mnistm/TSNE_Domain_2D.png" width="200"/>
+<img src="./images/non_patial/mnist_mnistm/TSNE_Label_2D.png" width="200"/><br>
 
 
 ### Partial domain adaptation results
