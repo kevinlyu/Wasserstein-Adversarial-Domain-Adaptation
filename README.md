@@ -38,6 +38,12 @@ From left to right are t-SNE embedding plot of MNISTM, USPS, and Office dataset 
 <img src="./images/before_training/mnist_mnistm/TSNE_Domain_2D.png" width="250"/><img src="./images/before_training/mnist_usps/TSNE_Domain_2D.png" width="250"/><img src="./images/before_training/office/TSNE_Domain_2D.png" width="250"/> <br>
 
 
+Following sections are the results of our model under partial and non-partial setting<br>
+To better visualize adaptation performance, we color the t-SNE plot according to domain and class
+
+- left hand side: colored by data domain
+- right hand side: colored by data class
+
 ### Non partial domain adaptation results
 - MNISTM<br>
 <img src="./images/non_patial/mnist_mnistm/TSNE_Domain_2D.png" width="400"/><img src="./images/non_patial/mnist_mnistm/TSNE_Label_2D.png" width="400"/><br>
