@@ -33,17 +33,21 @@ Our WADA model consists of source extractor, target extractor, task classifier, 
 ### Data distribution before adaptation trainning
 
 - MNISTM<br>
-<img src="./images/before_training/mnist_mnistm/TSNE_Domain_2D.png" width="600"/> <br>
+<img src="./images/before_training/mnist_mnistm/TSNE_Domain_2D.png" width="400"/> <br>
 - USPS<br>
-<img src="./images/before_training/mnist_usps/TSNE_Domain_2D.png" width="600"/> <br>
+<img src="./images/before_training/mnist_usps/TSNE_Domain_2D.png" width="400"/> <br>
 - Office<br>
-<img src="./images/before_training/office/TSNE_Domain_2D.png" width="600"/> <br>
+<img src="./images/before_training/office/TSNE_Domain_2D.png" width="400"/> <br>
 
 
 ### Non partial domain adaptation results
 - MNISTM<br>
 <img src="./images/non_patial/mnist_mnistm/TSNE_Domain_2D.png" width="400"/><img src="./images/non_patial/mnist_mnistm/TSNE_Label_2D.png" width="400"/><br>
 
+- USPS<br>
+<img src="./images/non_patial/mnist_usps/TSNE_Domain_2D.png" width="400"/><img src="./images/non_patial/mnist_usps/TSNE_Label_2D.png" width="400"/><br>
 
+- Office<br>
+<img src="./images/non_patial/office/TSNE_Domain_2D.png" width="400"/><img src="./images/non_patial/office/TSNE_Label_2D.png" width="400"/><br>
 ### Partial domain adaptation results
 
