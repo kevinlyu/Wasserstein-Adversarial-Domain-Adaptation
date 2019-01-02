@@ -35,8 +35,9 @@ Data distribution before adaptation trainning <br>
 <p>
 <img width="250" title="MNISTM" src="./images/before_training/mnist_mnistm/TSNE_Domain_2D.png"/> 
 </p>
+<p>
 <em>MNISTM</em>
-
+</p>
 <p>
 <img width="250" title="USPS" src="./images/before_training/mnist_usps/TSNE_Domain_2D.png"/> 
 <em>USPS</em>
