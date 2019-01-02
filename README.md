@@ -52,10 +52,10 @@ Our WADA model consists of source extractor, target extractor, task classifier, 
 
 ### Partial domain adaptation results
 - MNISTM<br>
-<img src="./images/partial/mnist_mnistm/TSNE_Domain_2D.png" width="400"/><img src="./images/patial/mnist_mnistm/TSNE_Label_2D.png" width="400"/><br>
+<img src="./images/partial/mnist_mnistm/TSNE_Domain_2D.png" width="400"/><img src="./images/partial/mnist_mnistm/TSNE_Label_2D.png" width="400"/><br>
 
 - USPS<br>
-<img src="./images/partial/mnist_usps/TSNE_Domain_2D.png" width="400"/><img src="./images/patial/mnist_usps/TSNE_Label_2D.png" width="400"/><br>
+<img src="./images/partial/mnist_usps/TSNE_Domain_2D.png" width="400"/><img src="./images/partial/mnist_usps/TSNE_Label_2D.png" width="400"/><br>
 
 - Office<br>
-<img src="./images/partial/office/TSNE_Domain_2D.png" width="400"/><img src="./images/patial/office/TSNE_Label_2D.png" width="400"/><br>
+<img src="./images/partial/office/TSNE_Domain_2D.png" width="400"/><img src="./images/partial/office/TSNE_Label_2D.png" width="400"/><br>
