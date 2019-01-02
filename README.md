@@ -32,8 +32,8 @@ Our WADA model consists of source extractor, target extractor, task classifier, 
 
 ### Data distribution before adaptation trainning
 
-Here blue region represents source domain and red regrion represents target domain
-From left to right are t-SNE embedding plot of MNISTM, USPS, and Office dataset rspectively 
+Here blue region represents source domain and red regrion represents target domain<br>
+From left to right are t-SNE embedding plot of MNISTM, USPS, and Office dataset rspectively<br>
 <img src="./images/before_training/mnist_mnistm/TSNE_Domain_2D.png" width="400"/> <br><img src="./images/before_training/mnist_usps/TSNE_Domain_2D.png" width="400"/> <br><img src="./images/before_training/office/TSNE_Domain_2D.png" width="400"/> <br>
 
 
