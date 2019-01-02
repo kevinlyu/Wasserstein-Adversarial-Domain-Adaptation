@@ -33,5 +33,5 @@ Our WADA model consists of source extractor, target extractor, task classifier, 
 Data distribution before adaptation trainning
 
 
-![mnistm](./images/before_training/mnist_mnistm/TSNE_Domain_2D.png)
+![mnistm](./images/before_training/mnist_mnistm/TSNE_Domain_2D.png =300x300)
 
